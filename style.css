@@ -16,8 +16,8 @@ html {
 	width: 960px;
 	font-size: 18px
 	line-height:32px;
-	margin-right: 150px;
-	margin-left: 100px;
+	margin-right: auto; /*change to auto first.....150 then 100 for left*/
+	margin-left: auto;
 	color: #777;
 	font-size: 18px;
 
@@ -118,20 +118,20 @@ html {
 
 	
 
-
+/*-------Bottom of page---*/
 	
 }
 
 #footer {
 	
 	width: 960px;
-	height: 100px;
+	height: 80px; 
 	clear: both;
 	text-align: center;
 	background-color: #ebebeb;
 	padding:20px;
-	margin-left: 100px;
-	margin-right:150px;
+	margin-left: auto;
+	margin-right: auto;
 	font-size: 18px;
 	color: #777;
 
