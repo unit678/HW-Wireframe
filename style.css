@@ -1,0 +1,138 @@
+/*the begging of the top section*/
+
+*{
+	box-sizing: border-box;
+	text-align: center;
+}
+
+html {
+	background-color: #777;
+}
+
+
+
+#container {
+	font-family: "arial", "helvetica neue", "helvetica", "sans-serif";
+	width: 960px;
+	font-size: 18px
+	line-height:32px;
+	margin-right: 150px;
+	margin-left: 100px;
+	color: #777;
+	font-size: 18px;
+
+	
+}
+
+
+
+#header{
+	
+	height: 80px;
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: #ebebeb;
+	padding: 20px;
+}
+
+#nav {
+	padding:20px;
+	height: 80px;
+	text-align: center;
+	background-color: #ebebeb;
+	margin-bottom: 20px;
+
+	
+/*-------the ending of the top section of css---------*/
+
+
+}
+
+#body {
+	padding-bottom: 5px;
+}
+
+
+#section {
+	background-color: #ebebeb;
+	
+
+	height:310px;
+	float: left;
+	width: 495px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 30px;
+
+
+	
+}
+
+ #article {
+ 	padding-top: 10px;
+ 	background-color: #777;
+ 	width: 475px;
+ 	height: 210px;
+ 	margin: 10px 10px 10px 10px;
+ 	color: #ebebeb;
+
+
+
+
+
+ }
+
+ #article1 {
+	width: 440px;
+	height:60px;
+	background-color: #ebebeb;
+	margin: 10px 30px 10px 15px;
+	padding-top: 10px;
+	font:bold;
+	color:#777;
+	font-family: "arial";
+}
+ 
+ #article2 {
+	width: 440px;
+	height: 60px;
+	background: #ebebeb;
+	padding-top: 10px;
+	margin: 10px 30px 10px 15px;
+	color: #777;
+
+ }
+
+
+
+
+#aside {
+	background-color: #ebebeb;
+	
+	height:310px;
+	float: right;
+	width:440px;
+	text-align: center;
+	padding-top: 30px;
+
+
+	
+
+
+	
+}
+
+#footer {
+	
+	width: 960px;
+	height: 100px;
+	clear: both;
+	text-align: center;
+	background-color: #ebebeb;
+	padding:20px;
+	margin-left: 100px;
+	margin-right:150px;
+	font-size: 18px;
+	color: #777;
+
+}
